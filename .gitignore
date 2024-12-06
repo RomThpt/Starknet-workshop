@@ -1,0 +1,5 @@
+target
+.snfoundry_cache/
+.DS_Store
+snfoundry.toml
+.env
